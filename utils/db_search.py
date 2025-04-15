@@ -1,3 +1,4 @@
+import utils.session
 import polars as pl
 
 
